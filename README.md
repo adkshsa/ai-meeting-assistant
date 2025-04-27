@@ -34,5 +34,5 @@ Install Docker Desktop from https://www.docker.com/products/docker-desktop
 Setup
 
 Clone this repo:
-git clone https://[github.com/your-username/meeting-assistant.git](https://github.com/adkshsa/ai-meeting-assistant.git)
+git clone https://[github.com/adkshsa/meeting-assistant.git](https://github.com/adkshsa/ai-meeting-assistant.git)
 cd meeting-assistant
