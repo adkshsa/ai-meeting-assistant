@@ -36,4 +36,7 @@ Setup
 
 Clone this repo:
 git clone https://[github.com/adkshsa/meeting-assistant.git](https://github.com/adkshsa/ai-meeting-assistant.git)
+
 cd meeting-assistant
+
+ docker compose up --build         
