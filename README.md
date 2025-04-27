@@ -21,9 +21,10 @@ Container: Docker & Docker Compose
 Watcher: Python Watchdog
 
 Installation
-Install OBS,[Download from: https://obsproject.com](https://github.com/obsproject/obs-studio/releases/tag/27.2.4)
+Install OBS-Studio-27.2.4,[Download from: https://obsproject.com](https://github.com/obsproject/obs-studio/releases/tag/27.2.4)
+
 install obs-websocket v4.9.1  https://github.com/obsproject/obs-websocket/releases/tag/4.9.1
-OBS-Studio-27.2.4
+
 
 Go to Tools → WebSocket Server Settings and enable WebSocket
 Default Port: 4444 
